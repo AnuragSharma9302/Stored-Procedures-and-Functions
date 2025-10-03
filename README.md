@@ -1,4 +1,4 @@
-##🛠️ Stored Procedures & Functions 
+## 🛠️ Stored Procedures & Functions 
 
 ## 🎯 Objective  
 Learned how to create **stored procedures and functions** in PostgreSQL to modularize SQL logic for reusability, maintainability, and abstraction.  
