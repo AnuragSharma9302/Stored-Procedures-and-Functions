@@ -6,7 +6,7 @@ Learned how to create **stored procedures and functions** in PostgreSQL to modul
 ---
 
 ## ⚙️ Tools Used  
-- **PostgreSQL**
+- **PostgreSQL(pgAdmin4)**
 - **DB Browser for SQLite / MySQL Workbench (for practice)**
 - **dbdiagram.io** for ERD
 
